@@ -5,6 +5,7 @@
 [![Docs](https://img.shields.io/badge/docs-authzed.com-%234B4B6C "Authzed Documentation")](https://docs.authzed.com)
 [![Discord Server](https://img.shields.io/discord/844600078504951838?color=7289da&label=discord&logo=discord&logoColor=7289da "Discord Server")](https://authzed.com/discord)
 [![Twitter](https://img.shields.io/badge/twitter-%40authzed-1D8EEE?logo=twitter "@authzed on Twitter")](https://twitter.com/authzed)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPabloLiraC%2Fspicedb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPabloLiraC%2Fspicedb?ref=badge_shield)
 
 SpiceDB is an open source, [Google Zanzibar]-inspired, database system for creating and managing security-critical application permissions.
 
@@ -183,3 +184,7 @@ We appreciate all contributions, large and small, and would like to thank all th
 In addition, we'd like to highlight a few notable contributions:
 
 - The GitHub Authorization Team for implementing and contributing the MySQL datastore
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPabloLiraC%2Fspicedb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPabloLiraC%2Fspicedb?ref=badge_large)
